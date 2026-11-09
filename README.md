@@ -6,13 +6,16 @@ I'm starting with the infrastructure behind it all: what happens after you send 
 
 This is a place for my notes, questions, experiments, graphics, and writing. Some days might turn into a blog post; others might just be a few notes from a video or something I tried building. The point is to keep learning and make the concepts easier to understand.
 
-**Started:** November 6, 2026 · **Progress:** 1 / 100 days logged
+**Started:** November 6, 2026 · **Progress:** 4 / 100 days logged
 
 ## Learning log
 
 | Day | Date | Topic | What I did | Notes & writing |
 | --- | --- | --- | --- | --- |
-| 001 | November 6, 2026 | A primer on AI infrastructure | Wrote a blog draft explaining what happens after you send a prompt: models, GPUs and VRAM, serving software, prefill and decode, KV cache, and routing. | [Day 1 notes](days/day-001/README.md) · [Blog draft](days/day-001/ai-infrastructure-primer.md) · Substack: not published yet |
+| 001 | November 6, 2026 | AI infrastructure | Wrote a draft of “A primer on AI infrastructure.” | [Day 1](days/day-001/README.md) · [Original draft](days/day-001/ai-infrastructure-primer.md) |
+| 002 | November 7, 2026 | AI inference | Continued learning about AI inference. | [Day 2](days/day-002/README.md) |
+| 003 | November 8, 2026 | AI inference | Continued learning about inference and published a blog covering the first three days. | [Day 3](days/day-003/README.md) |
+| 004 | November 9, 2026 | Inference Engineering | Read chapter 1 of *Inference Engineering* by Philip Kiely. | [Day 4](days/day-004/README.md) |
 
 ## Topics I want to explore
 

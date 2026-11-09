@@ -1,6 +1,6 @@
 # A primer on AI Infrastructure
 
-> Day 001 · November 6, 2026 · Unpublished draft for Substack. Technical review and source links are still to do.
+> Original draft from Day 001 · November 6, 2026. The blog post was published on Substack on November 8, 2026; published link to come.
 
 There’s an overwhelming number of new terms and concepts, and an influx of content. I’ve been increasingly interested in the state of AI, in topics such as software factories, model routing, and the infrastructure behind it all.
 

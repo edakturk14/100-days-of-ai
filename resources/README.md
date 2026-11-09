@@ -1,6 +1,8 @@
 # Reading & watching list
 
-Resources to explore, grouped by topic in the [main README](../README.md#topics-i-want-to-explore).
+Resources to explore, grouped by topic in the [main README](../README.md#topics-i-want-to-explore). Statuses track my own progress.
+
+Start with the book or interview. PyTorch is the first coding step; vLLM needs a supported setup. Save roofline analysis and llm-d for a deeper dive into systems.
 
 | Topic | Resource | Format | What to explore | Status |
 | --- | --- | --- | --- | --- |

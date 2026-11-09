@@ -1,34 +1,20 @@
 # Reading & watching list
 
-A place to collect videos, blog posts, documentation, papers, and courses I want to dive into. Links can go here before I know which day I'll explore them.
+Resources to explore, grouped by topic in the [main README](../README.md#topics-i-want-to-explore).
 
-## Queue
+| Topic | Resource | Format | What to explore | Status |
+| --- | --- | --- | --- | --- |
+| AI inference | [Inference Engineering — Philip Kiely](https://www.baseten.co/inference-engineering/book) | Book | The inference stack, from models to production. | In progress — [chapter 1 read](../days/day-004/README.md) |
+| AI inference | [Philip Kiely with Scott Hanselman](https://www.youtube.com/watch?v=ZrZfVbaxcF4) | Video | A conversation with the book's author. | To explore |
+| GPUs & memory | [All About Rooflines](https://jax-ml.github.io/scaling-book/roofline/) | Book chapter | Compute and bandwidth bottlenecks; more technical. | To explore |
+| PyTorch | [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) | Tutorial | Tensors and a basic ML workflow. | To explore |
+| vLLM | [Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart/) | Docs | Run inference and serve a model. | To explore |
+| KV caching | [How caching works — Hugging Face](https://huggingface.co/docs/transformers/en/cache_explanation) | Docs | How caching avoids repeated work. | To explore |
+| Server routing | [llm-d architecture](https://llm-d.ai/docs/dev/architecture) | Docs | Routing and coordination across model servers. | To explore |
+| Model routing | [RouteLLM](https://github.com/lm-sys/RouteLLM) | Code & guide | Routing between models with cost and quality in mind. | To explore |
+| Agents | [Building effective agents — Anthropic](https://www.anthropic.com/research/building-effective-agents) | Blog | Foundational workflow and agent patterns. | To explore |
+| Software factories | [StrongDM Software Factory](https://factory.strongdm.ai/) | Blog | A team's approach using specs, scenarios, and agents. | To explore |
 
-Add one row per resource. Suggested statuses: **To explore**, **In progress**, **Finished**, or **Revisit**.
-
-| Resource | Format | Topic | Why I want to explore it | Status | Day / notes |
-| --- | --- | --- | --- | --- | --- |
-
-<!-- Example row (replace the placeholders before adding it to the table):
-| [Title](URL) | Video / Blog / Docs / Paper / Course | AI inference | The question I hope it answers | To explore | — |
--->
-
-## What I want to find resources on
-
-- **AI inference:** a deeper explanation of prefill, decode, and performance bottlenecks.
-- **GPU memory:** how model weights and KV caches share available space.
-- **vLLM:** a walkthrough and a small serving experiment.
-- **llm-d:** how scheduling and routing work across model servers.
-- **Model routing:** how systems choose between models.
-- **Software factories and agents:** how models fit into software development workflows.
-
-## Notes worth keeping
-
-For a resource I spend time with, add notes to the relevant day's folder and link them in the table. Useful prompts:
-
-- What was the main idea?
-- What became clearer?
-- What am I still unsure about?
-- Is there something small I can try?
+Add new links here and link daily notes as I work through them.
 
 [← Learning log](../README.md)

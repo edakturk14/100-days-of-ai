@@ -15,22 +15,23 @@ This is a place for my notes, questions, experiments, graphics, and writing. Som
 | 001 | November 6, 2026 | AI infrastructure | Wrote a draft of “A primer on AI infrastructure.” | [Day 1](days/day-001/README.md) · [Original draft](days/day-001/ai-infrastructure-primer.md) |
 | 002 | November 7, 2026 | AI inference | Continued learning about AI inference. | [Day 2](days/day-002/README.md) |
 | 003 | November 8, 2026 | AI inference | Continued learning about inference and published a blog covering the first three days. | [Day 3](days/day-003/README.md) |
-| 004 | November 9, 2026 | Inference Engineering | Read chapter 1 of *Inference Engineering* by Philip Kiely. | [Day 4](days/day-004/README.md) |
+| 004 | November 9, 2026 | Inference Engineering | Read chapter 1 of [Inference Engineering](https://www.baseten.co/inference-engineering/book) by Philip Kiely. | [Day 4](days/day-004/README.md) |
 
 ## Topics I want to explore
 
-An evolving list, rather than a fixed curriculum:
+A few starting points, grouped by topic:
 
-- [ ] AI inference: what happens when a model runs
-- [ ] GPUs, memory, and the tradeoffs behind serving models
-- [ ] PyTorch and vLLM
-- [ ] Prefill, decode, and KV caching
-- [ ] Routing requests across servers with llm-d
-- [ ] Model routing: choosing which model to use
-- [ ] Agents, harnesses, and software factories
-- [ ] Small hands-on experiments to connect the concepts
+- **AI inference:** [Inference Engineering — Philip Kiely](https://www.baseten.co/inference-engineering/book) · Chapter 1 read.
+- **GPUs & memory:** [All About Rooflines](https://jax-ml.github.io/scaling-book/roofline/) · A deeper look at compute and bandwidth limits.
+- **PyTorch:** [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) · A hands-on introduction.
+- **vLLM:** [Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart/) · Try serving a model.
+- **KV caching:** [How caching works](https://huggingface.co/docs/transformers/en/cache_explanation) · Understand what gets reused during generation.
+- **Server routing:** [llm-d architecture](https://llm-d.ai/docs/dev/architecture) · How requests reach model servers.
+- **Model routing:** [RouteLLM](https://github.com/lm-sys/RouteLLM) · Explore choosing between models.
+- **Agents:** [Building effective agents — Anthropic](https://www.anthropic.com/research/building-effective-agents) · Workflows, tools, and agent patterns.
+- **Software factories:** [StrongDM's write-up](https://factory.strongdm.ai/) · One team's approach to agent-driven development.
 
-Videos, blog posts, papers, and documentation I want to spend time with go in the [resource list](resources/README.md).
+The [reading & watching list](resources/README.md) tracks progress and includes a video interview with Philip Kiely.
 
 ## How this repo is organized
 

@@ -6,7 +6,7 @@ Start with the book or interview. PyTorch is the first coding step; vLLM needs a
 
 | Topic | Resource | Format | What to explore | Status |
 | --- | --- | --- | --- | --- |
-| AI inference | [Inference Engineering — Philip Kiely](https://www.baseten.co/inference-engineering/book) | Book | The inference stack, from models to production. | In progress — [chapter 1 read](../days/day-004/README.md) |
+| AI inference | [Inference Engineering — Philip Kiely](https://www.baseten.co/inference-engineering/book) | Book | The inference stack, from models to production. | In progress — [chapter 1](../days/day-004/README.md) and [chapter 2](../days/day-005/README.md) read |
 | AI inference | [Philip Kiely with Scott Hanselman](https://www.youtube.com/watch?v=ZrZfVbaxcF4) | Video | A conversation with the book's author. | To explore |
 | GPUs & memory | [All About Rooflines](https://jax-ml.github.io/scaling-book/roofline/) | Book chapter | Compute and bandwidth bottlenecks; more technical. | To explore |
 | PyTorch | [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) | Tutorial | Tensors and a basic ML workflow. | To explore |

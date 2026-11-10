@@ -4,7 +4,7 @@ I'm learning AI in public for 100 days, starting with inference and the infrastr
 
 Learning along with me? Use the starting path below or pick a topic that interests you.
 
-**Started:** November 6, 2026 · **Progress:** 4 / 100 days logged
+**Started:** November 6, 2026 · **Progress:** 5 / 100 days logged
 
 ## Start here
 
@@ -22,12 +22,13 @@ For more technical reading, explore GPU bottlenecks and routing in the [resource
 | 002 | November 7, 2026 | AI inference | Continued learning about AI inference. | [Day 2](days/day-002/README.md) |
 | 003 | November 8, 2026 | AI inference | Continued learning about inference and published a blog covering the first three days. | [Day 3](days/day-003/README.md) |
 | 004 | November 9, 2026 | Inference Engineering | Read chapter 1 of [Inference Engineering](https://www.baseten.co/inference-engineering/book) by Philip Kiely. | [Day 4](days/day-004/README.md) |
+| 005 | November 10, 2026 | Inference Engineering | Read chapter 2 of [Inference Engineering](https://www.baseten.co/inference-engineering/book) by Philip Kiely. | [Day 5](days/day-005/README.md) |
 
 ## Topics I want to explore
 
 A few starting points, grouped by topic:
 
-- **AI inference:** [Inference Engineering — Philip Kiely](https://www.baseten.co/inference-engineering/book) · Chapter 1 read.
+- **AI inference:** [Inference Engineering — Philip Kiely](https://www.baseten.co/inference-engineering/book) · Chapters 1–2 read.
 - **GPUs & memory:** [All About Rooflines](https://jax-ml.github.io/scaling-book/roofline/) · A deeper look at compute and bandwidth limits.
 - **PyTorch:** [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html) · A hands-on introduction.
 - **vLLM:** [Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart/) · Try serving a model.
